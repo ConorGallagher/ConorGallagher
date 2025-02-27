@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ConorGallagher
-- 👀 I’m interested in front and back end development.
-- 🌱 I’m currently in my final year of studying Business IT at University.
-- 📫 You can reach me at www.linkedin.com/in/conorgallagher
 
 <!---
 ConorGallagher/ConorGallagher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
